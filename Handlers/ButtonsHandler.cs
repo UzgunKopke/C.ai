@@ -138,7 +138,7 @@ namespace CharacterAiDiscordBot.Handlers
             }
 
             try
-            {   // Only if left/right/up/down is selected, either this line will never be reached
+            {   // Yalnızca sol/sağ/yukarı/aşağı seçilirse, bu satıra asla ulaşılamaz
                 await component.Message.ModifyAsync(c => c.Embed = BuildCharactersList(searchQuery)).ConfigureAwait(false);
             }
             catch { return; }
