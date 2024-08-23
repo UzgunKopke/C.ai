@@ -1,0 +1,15 @@
+﻿{
+    "discord_bot_token": "YOUR_BOT_TOKEN",
+    "discord_bot_manager_role": "Manage Character",
+
+    "hoster_discord_id": null,
+    "discord_logs_channel_id": null,
+    "discord_error_logs_channel_id": null,
+
+    "default_messages_format": "{{ref_msg_begin}}((In response to '{{ref_msg_text}}' from '{{ref_msg_user}}')){{ref_msg_end}}\n{{user}} says:\n{{msg}}",
+    "no_permission_file": "nopower.gif",
+    "rate_limit": 15,
+
+    "puppeteer_browser_directory": null,
+    "puppeteer_browser_executable_path": null
+}
