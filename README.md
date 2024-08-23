@@ -6,8 +6,6 @@
 Kendi Discord sunucunuza herhangi bir karakter eklemek için kullanabileceğiniz bir [CharacterAI](https://beta.character.ai/) hizmetiyle resmi olmayan bir Discord entegrasyonu.
 
 <div align="center">    
-    
-! [Logo] (https://user-images.githubusercontent.com/55811932/224168501-48e81f64-9b2f-442c-a8fe-6ecab8d7aab2.png) <br>
 
 </div>
 
